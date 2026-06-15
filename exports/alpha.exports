@@ -1,0 +1,6 @@
+{
+  global:
+    alpha_*;
+  local:
+    *;
+};
